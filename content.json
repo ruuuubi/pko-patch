@@ -7,13 +7,13 @@
     "website": "https://github.com/ruuuubi/pko-patch"
   },
   "rates": [
-    { "label": "Solo Exp", "value": "x5" },
-    { "label": "Party Exp", "value": "x7" },
-    { "label": "Drop Rate", "value": "x3" }
+    { "label": "Solo Exp", "value": "x1" },
+    { "label": "Party Exp", "value": "x1" },
+    { "label": "Drop Rate", "value": "x1" }
   ],
   "levelCap": [
-    { "label": "Players", "value": "130" },
-    { "label": "Pets", "value": "90" }
+    { "label": "Players", "value": "65" },
+    { "label": "Pets", "value": "20" }
   ],
   "mazes": [
     { "name": "Dark Swamp", "daily": ["20:00", "23:00"], "durationMin": 30 },
