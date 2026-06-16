@@ -1,0 +1,9 @@
+# pko-patch : public patch-distribution repo.
+# Client binaries are delivered via GitHub RELEASES, never committed.
+# Ignore everything, then allow-list only the small text files this repo manages.
+/*
+!/.gitignore
+!/README.md
+!/content.json
+!/manifest.json
+!/status.json

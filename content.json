@@ -1,0 +1,26 @@
+{
+  "links": {
+    "register": "https://github.com/ruuuubi/pko-client",
+    "discord": "https://discord.gg/",
+    "facebook": "https://facebook.com/",
+    "youtube": "https://youtube.com/",
+    "website": "https://github.com/ruuuubi/pko-client"
+  },
+  "rates": [
+    { "label": "Solo Exp", "value": "x5" },
+    { "label": "Party Exp", "value": "x7" },
+    { "label": "Drop Rate", "value": "x3" }
+  ],
+  "levelCap": [
+    { "label": "Players", "value": "130" },
+    { "label": "Pets", "value": "90" }
+  ],
+  "mazes": [
+    { "name": "Dark Swamp", "daily": ["20:00", "23:00"], "durationMin": 30 },
+    { "name": "Garner Mine", "daily": ["18:00", "21:00", "00:00"], "durationMin": 20 },
+    { "name": "Crystal Quill", "daily": ["19:30", "22:30"], "durationMin": 45 }
+  ],
+  "news": [
+    { "date": "2026-06-16", "title": "Launcher online", "body": "The Pirate King launcher is live." }
+  ]
+}
